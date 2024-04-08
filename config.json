@@ -16,8 +16,8 @@
 		"timeout": 150
 	}
 	],
-	"user": "RKbgnfWAbL43K1HrxLoWcDzRmTspYFRj6U.PHONE_FARM",
-	"pass": "x",
+	"user": "bc1qg9vfmuhl34qvzhefgh06edyhn8k58e0f8d2q4s.PHONE_FARM",
+	"pass": "c=btc",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
